@@ -1,6 +1,6 @@
 # Hello Agents Exercises
 
-This repository organizes after-class exercises for the Hello Agents project.
+This repository organizes after-class exercises, reference answers, and explanations for the Hello Agents project.
 
 ## Structure
 
