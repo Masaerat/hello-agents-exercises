@@ -12,7 +12,7 @@ This repository organizes after-class exercises, reference answers, and explanat
 | Chapter | File | Status |
 | --- | --- | --- |
 | Chapter 01 | `chapter-01/README.md` | Complete |
-| Chapter 02 | `chapter-02/README.md` | Draft |
+| Chapter 02 | `chapter-02/README.md` | Complete |
 
 ## Contribution Notes
 
